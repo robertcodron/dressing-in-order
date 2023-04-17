@@ -11,7 +11,7 @@ scikit-image
 tensorboard
 tensorboardX
 tifffile==2020.9.3
-torch==1.0.0
-torchfile==0.1.0
-torchvision==0.2.1
+torch 
+torchfile 
+torchvision 
 tqdm
